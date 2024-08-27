@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    height: 430px;
+   background-image: url(./LeftLargemountainnight.png),url(./half\ moon.png),url(./leftsmallmountainnight.png),url(./sunbro.png),url(./crow.gif),url(./rightsmallmountainnight.png),url(./RightLargemountainNight.png),url(./black\ sky.png);
+   background-size:770px,10%,450px,10%,10%,450px,770px,100%;
+   background-repeat: no-repeat;
+   background-position: -150px 100px,15px 15px,300px 150px,550px 360px,600px 250px,480px 150px,650px 100px,center;
+   transition: all 5s;
+   
+   
+}
+header:hover{
+    width: 100%;
+    height: 430px;
+   background-image: url(./LeftLargemountain.png),url(./half\ moon.png),url(./leftsmallmountain.png),url(./sunbro.png),url(./crow.gif),url(./rightsmallmountain.png),url(./RightLargemountain.png),url(./sky.png);
+   background-size:770px,2%,450px,10%,10%,450px,770px,100%;
+   background-repeat: no-repeat;
+   background-position: -190px 200px,200px 200px,280px 170px,610px 0px,1180px 200px,550px 170px,750px 180px,center;
+    
+}
